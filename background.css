@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    text-transform: uppercase;
+    background:linear-gradient(to right,rgb(66, 88, 185),rgb(114, 189, 80)) ;
+}
+h1{
+    font-size: 3.5em;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    color:rgb(49, 34, 14);
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(61, 47, 29);
+    text-align: center;
+}
+h3{
+    text-transform: none;
+}
